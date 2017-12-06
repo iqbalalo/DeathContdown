@@ -1,0 +1,2204 @@
+[
+    {
+        "Country": "Japan",
+        "Femalelife": "86.8",
+        "Malelife": "80.5",
+        "Bothsexeslife": "74.9"
+    },
+    {
+        "Country": "Switzerland",
+        "Femalelife": "85.3",
+        "Malelife": "81.3",
+        "Bothsexeslife": "73.1"
+    },
+    {
+        "Country": "Singapore",
+        "Femalelife": "86.1",
+        "Malelife": "80",
+        "Bothsexeslife": "73.9"
+    },
+    {
+        "Country": "Australia",
+        "Femalelife": "84.8",
+        "Malelife": "80.9",
+        "Bothsexeslife": "71.9"
+    },
+    {
+        "Country": "Spain",
+        "Femalelife": "85.5",
+        "Malelife": "80.1",
+        "Bothsexeslife": "72.4"
+    },
+    {
+        "Country": "Iceland",
+        "Femalelife": "84.1",
+        "Malelife": "81.2",
+        "Bothsexeslife": "72.7"
+    },
+    {
+        "Country": "Italy",
+        "Femalelife": "84.8",
+        "Malelife": "80.5",
+        "Bothsexeslife": "72.8"
+    },
+    {
+        "Country": "Israel",
+        "Femalelife": "84.3",
+        "Malelife": "80.6",
+        "Bothsexeslife": "72.8"
+    },
+    {
+        "Country": "Sweden",
+        "Femalelife": "84",
+        "Malelife": "80.7",
+        "Bothsexeslife": "72"
+    },
+    {
+        "Country": "France",
+        "Femalelife": "85.4",
+        "Malelife": "79.4",
+        "Bothsexeslife": "72.6"
+    },
+    {
+        "Country": "SouthKorea",
+        "Femalelife": "85.5",
+        "Malelife": "78.8",
+        "Bothsexeslife": "73.2"
+    },
+    {
+        "Country": "Canada",
+        "Femalelife": "84.1",
+        "Malelife": "80.2",
+        "Bothsexeslife": "72.3"
+    },
+    {
+        "Country": "Luxembourg",
+        "Femalelife": "84",
+        "Malelife": "79.8",
+        "Bothsexeslife": "71.8"
+    },
+    {
+        "Country": "Netherlands",
+        "Femalelife": "83.6",
+        "Malelife": "80",
+        "Bothsexeslife": "72.2"
+    },
+    {
+        "Country": "Norway",
+        "Femalelife": "83.7",
+        "Malelife": "79.8",
+        "Bothsexeslife": "72"
+    },
+    {
+        "Country": "Malta",
+        "Femalelife": "83.7",
+        "Malelife": "79.7",
+        "Bothsexeslife": "71.7"
+    },
+    {
+        "Country": "New Zealand",
+        "Femalelife": "83.3",
+        "Malelife": "80",
+        "Bothsexeslife": "71.6"
+    },
+    {
+        "Country": "Austria",
+        "Femalelife": "83.9",
+        "Malelife": "79",
+        "Bothsexeslife": "72"
+    },
+    {
+        "Country": "Ireland",
+        "Femalelife": "83.4",
+        "Malelife": "79.4",
+        "Bothsexeslife": "71.5"
+    },
+    {
+        "Country": "United Kingdom",
+        "Femalelife": "83",
+        "Malelife": "79.4",
+        "Bothsexeslife": "71.4"
+    },
+    {
+        "Country": "Belgium",
+        "Femalelife": "83.5",
+        "Malelife": "78.6",
+        "Bothsexeslife": "71.1"
+    },
+    {
+        "Country": "Finland",
+        "Femalelife": "83.8",
+        "Malelife": "78.3",
+        "Bothsexeslife": "71"
+    },
+    {
+        "Country": "Portugal",
+        "Femalelife": "83.9",
+        "Malelife": "78.2",
+        "Bothsexeslife": "71.4"
+    },
+    {
+        "Country": "Germany",
+        "Femalelife": "83.4",
+        "Malelife": "78.7",
+        "Bothsexeslife": "71.3"
+    },
+    {
+        "Country": "Greece",
+        "Femalelife": "83.6",
+        "Malelife": "78.3",
+        "Bothsexeslife": "71.9"
+    },
+    {
+        "Country": "Slovenia",
+        "Femalelife": "83.7",
+        "Malelife": "77.9",
+        "Bothsexeslife": "71.1"
+    },
+    {
+        "Country": "Denmark",
+        "Femalelife": "82.5",
+        "Malelife": "78.6",
+        "Bothsexeslife": "71.2"
+    },
+    {
+        "Country": "Cyprus",
+        "Femalelife": "82.7",
+        "Malelife": "78.3",
+        "Bothsexeslife": "71.3"
+    },
+    {
+        "Country": "Chile",
+        "Femalelife": "83.4",
+        "Malelife": "77.4",
+        "Bothsexeslife": "70.4"
+    },
+    {
+        "Country": "CostaRica",
+        "Femalelife": "82.2",
+        "Malelife": "77.1",
+        "Bothsexeslife": "69.7"
+    },
+    {
+        "Country": "United States",
+        "Femalelife": "81.6",
+        "Malelife": "76.9",
+        "Bothsexeslife": "69.1"
+    },
+    {
+        "Country": "Cuba",
+        "Femalelife": "81.4",
+        "Malelife": "76.9",
+        "Bothsexeslife": "69.2"
+    },
+    {
+        "Country": "Czech Republic",
+        "Femalelife": "81.7",
+        "Malelife": "75.9",
+        "Bothsexeslife": "69.4"
+    },
+    {
+        "Country": "Maldives",
+        "Femalelife": "80.2",
+        "Malelife": "76.9",
+        "Bothsexeslife": "69.6"
+    },
+    {
+        "Country": "Qatar",
+        "Femalelife": "80",
+        "Malelife": "77.4",
+        "Bothsexeslife": "67.7"
+    },
+    {
+        "Country": "Croatia",
+        "Femalelife": "81.2",
+        "Malelife": "74.7",
+        "Bothsexeslife": "69.4"
+    },
+    {
+        "Country": "Albania",
+        "Femalelife": "80.7",
+        "Malelife": "75.1",
+        "Bothsexeslife": "68.8"
+    },
+    {
+        "Country": "Panama",
+        "Femalelife": "81.1",
+        "Malelife": "74.7",
+        "Bothsexeslife": "68.1"
+    },
+    {
+        "Country": "Brunei",
+        "Femalelife": "79.2",
+        "Malelife": "76.3",
+        "Bothsexeslife": "70.4"
+    },
+    {
+        "Country": "Estonia",
+        "Femalelife": "82",
+        "Malelife": "72.7",
+        "Bothsexeslife": "68.9"
+    },
+    {
+        "Country": "Poland",
+        "Femalelife": "81.3",
+        "Malelife": "73.6",
+        "Bothsexeslife": "68.7"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Femalelife": "79.7",
+        "Malelife": "75",
+        "Bothsexeslife": "68.6"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Femalelife": "78.6",
+        "Malelife": "76.4",
+        "Bothsexeslife": "67.9"
+    },
+    {
+        "Country": "Uruguay",
+        "Femalelife": "80.4",
+        "Malelife": "73.3",
+        "Bothsexeslife": "67.9"
+    },
+    {
+        "Country": "Bahrain",
+        "Femalelife": "77.9",
+        "Malelife": "76.2",
+        "Bothsexeslife": "67"
+    },
+    {
+        "Country": "Mexico",
+        "Femalelife": "79.5",
+        "Malelife": "73.9",
+        "Bothsexeslife": "67.4"
+    },
+    {
+        "Country": "Slovakia",
+        "Femalelife": "80.2",
+        "Malelife": "72.9",
+        "Bothsexeslife": "68.1"
+    },
+    {
+        "Country": "Oman",
+        "Femalelife": "79.2",
+        "Malelife": "75",
+        "Bothsexeslife": "66.7"
+    },
+    {
+        "Country": "Antiguaand Barbuda",
+        "Femalelife": "78.6",
+        "Malelife": "74.1",
+        "Bothsexeslife": "67.5"
+    },
+    {
+        "Country": "Argentina",
+        "Femalelife": "79.9",
+        "Malelife": "72.7",
+        "Bothsexeslife": "67.6"
+    },
+    {
+        "Country": "Jamaica",
+        "Femalelife": "78.6",
+        "Malelife": "73.9",
+        "Bothsexeslife": "66.9"
+    },
+    {
+        "Country": "Ecuador",
+        "Femalelife": "79",
+        "Malelife": "73.5",
+        "Bothsexeslife": "67"
+    },
+    {
+        "Country": "China",
+        "Femalelife": "77.6",
+        "Malelife": "74.6",
+        "Bothsexeslife": "68.5"
+    },
+    {
+        "Country": "Montenegro",
+        "Femalelife": "78.1",
+        "Malelife": "74.1",
+        "Bothsexeslife": "67.9"
+    },
+    {
+        "Country": "Bahamas",
+        "Femalelife": "79.1",
+        "Malelife": "72.9",
+        "Bothsexeslife": "66.6"
+    },
+    {
+        "Country": "Vietnam",
+        "Femalelife": "80.7",
+        "Malelife": "71.3",
+        "Bothsexeslife": "66.6"
+    },
+    {
+        "Country": "Hungary",
+        "Femalelife": "79.1",
+        "Malelife": "72.3",
+        "Bothsexeslife": "67.4"
+    },
+    {
+        "Country": "Turkey",
+        "Femalelife": "78.9",
+        "Malelife": "72.6",
+        "Bothsexeslife": "66.2"
+    },
+    {
+        "Country": "Macedonia",
+        "Femalelife": "77.8",
+        "Malelife": "73.5",
+        "Bothsexeslife": "67.5"
+    },
+    {
+        "Country": "Algeria",
+        "Femalelife": "77.5",
+        "Malelife": "73.8",
+        "Bothsexeslife": "66"
+    },
+    {
+        "Country": "Serbia",
+        "Femalelife": "78.4",
+        "Malelife": "72.9",
+        "Bothsexeslife": "67.7"
+    },
+    {
+        "Country": "Iran",
+        "Femalelife": "76.6",
+        "Malelife": "74.5",
+        "Bothsexeslife": "66.6"
+    },
+    {
+        "Country": "Peru",
+        "Femalelife": "78",
+        "Malelife": "73.1",
+        "Bothsexeslife": "65.6"
+    },
+    {
+        "Country": "Barbados",
+        "Femalelife": "77.9",
+        "Malelife": "73.1",
+        "Bothsexeslife": "66.6"
+    },
+    {
+        "Country": "Tunisia",
+        "Femalelife": "77.8",
+        "Malelife": "73",
+        "Bothsexeslife": "66.7"
+    },
+    {
+        "Country": "SaintLucia",
+        "Femalelife": "77.9",
+        "Malelife": "72.6",
+        "Bothsexeslife": "66.1"
+    },
+    {
+        "Country": "Malaysia",
+        "Femalelife": "77.3",
+        "Malelife": "72.7",
+        "Bothsexeslife": "66.5"
+    },
+    {
+        "Country": "Romania",
+        "Femalelife": "78.8",
+        "Malelife": "71.4",
+        "Bothsexeslife": "66.8"
+    },
+    {
+        "Country": "Brazil",
+        "Femalelife": "78.7",
+        "Malelife": "71.4",
+        "Bothsexeslife": "65.5"
+    },
+    {
+        "Country": "Lebanon",
+        "Femalelife": "76.5",
+        "Malelife": "73.5",
+        "Bothsexeslife": "65.7"
+    },
+    {
+        "Country": "Thailand",
+        "Femalelife": "78",
+        "Malelife": "71.9",
+        "Bothsexeslife": "66.8"
+    },
+    {
+        "Country": "SriLanka",
+        "Femalelife": "78.3",
+        "Malelife": "71.6",
+        "Bothsexeslife": "67"
+    },
+    {
+        "Country": "Armenia",
+        "Femalelife": "77.7",
+        "Malelife": "71.6",
+        "Bothsexeslife": "66.8"
+    },
+    {
+        "Country": "Nicaragua",
+        "Femalelife": "77.9",
+        "Malelife": "71.5",
+        "Bothsexeslife": "63.7"
+    },
+    {
+        "Country": "Colombia",
+        "Femalelife": "78.4",
+        "Malelife": "71.2",
+        "Bothsexeslife": "65.1"
+    },
+    {
+        "Country": "Kuwait",
+        "Femalelife": "76",
+        "Malelife": "73.7",
+        "Bothsexeslife": "65.8"
+    },
+    {
+        "Country": "Honduras",
+        "Femalelife": "77",
+        "Malelife": "72.3",
+        "Bothsexeslife": "64.9"
+    },
+    {
+        "Country": "Mauritius",
+        "Femalelife": "77.8",
+        "Malelife": "71.4",
+        "Bothsexeslife": "66.8"
+    },
+    {
+        "Country": "Latvia",
+        "Femalelife": "79.2",
+        "Malelife": "69.6",
+        "Bothsexeslife": "67.1"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Femalelife": "76",
+        "Malelife": "73.2",
+        "Bothsexeslife": "64.5"
+    },
+    {
+        "Country": "Bulgaria",
+        "Femalelife": "78",
+        "Malelife": "71.1",
+        "Bothsexeslife": "66.4"
+    },
+    {
+        "Country": "Georgia",
+        "Femalelife": "78.3",
+        "Malelife": "70.3",
+        "Bothsexeslife": "66.5"
+    },
+    {
+        "Country": "Morocco",
+        "Femalelife": "75.4",
+        "Malelife": "73.3",
+        "Bothsexeslife": "64.9"
+    },
+    {
+        "Country": "Jordan",
+        "Femalelife": "75.9",
+        "Malelife": "72.5",
+        "Bothsexeslife": "65"
+    },
+    {
+        "Country": "Venezuela",
+        "Femalelife": "78.5",
+        "Malelife": "70",
+        "Bothsexeslife": "65.2"
+    },
+    {
+        "Country": "Paraguay",
+        "Femalelife": "76",
+        "Malelife": "72.2",
+        "Bothsexeslife": "65.2"
+    },
+    {
+        "Country": "Samoa",
+        "Femalelife": "77.5",
+        "Malelife": "70.9",
+        "Bothsexeslife": "66.6"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Femalelife": "77.1",
+        "Malelife": "70.9",
+        "Bothsexeslife": "65.1"
+    },
+    {
+        "Country": "Grenada",
+        "Femalelife": "76.1",
+        "Malelife": "71.2",
+        "Bothsexeslife": "65"
+    },
+    {
+        "Country": "Lithuania",
+        "Femalelife": "79.1",
+        "Malelife": "68.1",
+        "Bothsexeslife": "66"
+    },
+    {
+        "Country": "Tonga",
+        "Femalelife": "76.4",
+        "Malelife": "70.6",
+        "Bothsexeslife": "66"
+    },
+    {
+        "Country": "ElSalvador",
+        "Femalelife": "77.9",
+        "Malelife": "68.8",
+        "Bothsexeslife": "64.1"
+    },
+    {
+        "Country": "CapeVerde",
+        "Femalelife": "75",
+        "Malelife": "71.3",
+        "Bothsexeslife": "64.4"
+    },
+    {
+        "Country": "Saint Vincentand the Grenadines",
+        "Femalelife": "75.2",
+        "Malelife": "71.3",
+        "Bothsexeslife": "64.6"
+    },
+    {
+        "Country": "Seychelles",
+        "Femalelife": "78",
+        "Malelife": "69.1",
+        "Bothsexeslife": "65.5"
+    },
+    {
+        "Country": "Libya",
+        "Femalelife": "75.6",
+        "Malelife": "70.1",
+        "Bothsexeslife": "63.8"
+    },
+    {
+        "Country": "Azerbaijan",
+        "Femalelife": "75.8",
+        "Malelife": "69.6",
+        "Bothsexeslife": "64.7"
+    },
+    {
+        "Country": "Belarus",
+        "Femalelife": "78",
+        "Malelife": "66.5",
+        "Bothsexeslife": "65.1"
+    },
+    {
+        "Country": "Moldova",
+        "Femalelife": "76.2",
+        "Malelife": "67.9",
+        "Bothsexeslife": "64.8"
+    },
+    {
+        "Country": "Vanuatu",
+        "Femalelife": "74",
+        "Malelife": "70.1",
+        "Bothsexeslife": "64.6"
+    },
+    {
+        "Country": "Guatemala",
+        "Femalelife": "75.2",
+        "Malelife": "68.5",
+        "Bothsexeslife": "62.1"
+    },
+    {
+        "Country": "Bangladesh",
+        "Femalelife": "73.1",
+        "Malelife": "70.6",
+        "Bothsexeslife": "62.3"
+    },
+    {
+        "Country": "Suriname",
+        "Femalelife": "74.7",
+        "Malelife": "68.6",
+        "Bothsexeslife": "63.1"
+    },
+    {
+        "Country": "Ukraine",
+        "Femalelife": "76.1",
+        "Malelife": "66.3",
+        "Bothsexeslife": "64.1"
+    },
+    {
+        "Country": "Trinidadand Tobago",
+        "Femalelife": "74.8",
+        "Malelife": "67.9",
+        "Bothsexeslife": "63.3"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Femalelife": "75.1",
+        "Malelife": "67.2",
+        "Bothsexeslife": "63.8"
+    },
+    {
+        "Country": "Egypt",
+        "Femalelife": "73.2",
+        "Malelife": "68.8",
+        "Bothsexeslife": "62.2"
+    },
+    {
+        "Country": "Bolivia",
+        "Femalelife": "73.3",
+        "Malelife": "68.2",
+        "Bothsexeslife": "62.2"
+    },
+    {
+        "Country": "DPRKorea",
+        "Femalelife": "74",
+        "Malelife": "67",
+        "Bothsexeslife": "64"
+    },
+    {
+        "Country": "Russian Federation",
+        "Femalelife": "76.3",
+        "Malelife": "64.7",
+        "Bothsexeslife": "63.3"
+    },
+    {
+        "Country": "Kazakhstan",
+        "Femalelife": "74.7",
+        "Malelife": "65.7",
+        "Bothsexeslife": "63.3"
+    },
+    {
+        "Country": "Belize",
+        "Femalelife": "73.1",
+        "Malelife": "67.5",
+        "Bothsexeslife": "62.3"
+    },
+    {
+        "Country": "Fiji",
+        "Femalelife": "73.1",
+        "Malelife": "67",
+        "Bothsexeslife": "62.9"
+    },
+    {
+        "Country": "Bhutan",
+        "Femalelife": "70.1",
+        "Malelife": "69.5",
+        "Bothsexeslife": "61.2"
+    },
+    {
+        "Country": "Tajikistan",
+        "Femalelife": "73.6",
+        "Malelife": "66.6",
+        "Bothsexeslife": "62.1"
+    },
+    {
+        "Country": "Micronesia",
+        "Femalelife": "70.6",
+        "Malelife": "68.1",
+        "Bothsexeslife": "62.5"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Femalelife": "72.7",
+        "Malelife": "66.1",
+        "Bothsexeslife": "62.4"
+    },
+    {
+        "Country": "SolomonIslands",
+        "Femalelife": "70.8",
+        "Malelife": "67.9",
+        "Bothsexeslife": "62.1"
+    },
+    {
+        "Country": "Nepal",
+        "Femalelife": "70.8",
+        "Malelife": "67.7",
+        "Bothsexeslife": "61.1"
+    },
+    {
+        "Country": "Indonesia",
+        "Femalelife": "71.2",
+        "Malelife": "67.1",
+        "Bothsexeslife": "62.2"
+    },
+    {
+        "Country": "Iraq",
+        "Femalelife": "71.8",
+        "Malelife": "66.2",
+        "Bothsexeslife": "60"
+    },
+    {
+        "Country": "Mongolia",
+        "Femalelife": "73.2",
+        "Malelife": "64.7",
+        "Bothsexeslife": "62"
+    },
+    {
+        "Country": "Cambodia",
+        "Femalelife": "70.7",
+        "Malelife": "66.6",
+        "Bothsexeslife": "58.9"
+    },
+    {
+        "Country": "Philippines",
+        "Femalelife": "72",
+        "Malelife": "65.3",
+        "Bothsexeslife": "61.1"
+    },
+    {
+        "Country": "India",
+        "Femalelife": "69.9",
+        "Malelife": "66.9",
+        "Bothsexeslife": "59.5"
+    },
+    {
+        "Country": "Timor-Leste",
+        "Femalelife": "70.1",
+        "Malelife": "66.6",
+        "Bothsexeslife": "60.7"
+    },
+    {
+        "Country": "Sao Tomeand Principe",
+        "Femalelife": "69.4",
+        "Malelife": "65.6",
+        "Bothsexeslife": "59.1"
+    },
+    {
+        "Country": "Senegal",
+        "Femalelife": "68.6",
+        "Malelife": "64.6",
+        "Bothsexeslife": "58.3"
+    },
+    {
+        "Country": "Myanmar",
+        "Femalelife": "68.5",
+        "Malelife": "64.6",
+        "Bothsexeslife": "59.2"
+    },
+    {
+        "Country": "Pakistan",
+        "Femalelife": "67.5",
+        "Malelife": "65.5",
+        "Bothsexeslife": "57.8"
+    },
+    {
+        "Country": "Kiribati",
+        "Femalelife": "68.8",
+        "Malelife": "63.7",
+        "Bothsexeslife": "59.1"
+    },
+    {
+        "Country": "Turkmenistan",
+        "Femalelife": "70.5",
+        "Malelife": "62.2",
+        "Bothsexeslife": "59.8"
+    },
+    {
+        "Country": "Guyana",
+        "Femalelife": "68.5",
+        "Malelife": "63.9",
+        "Bothsexeslife": "58.9"
+    },
+    {
+        "Country": "Rwanda",
+        "Femalelife": "71.1",
+        "Malelife": "60.9",
+        "Bothsexeslife": "56.6"
+    },
+    {
+        "Country": "Gabon",
+        "Femalelife": "67.2",
+        "Malelife": "64.7",
+        "Bothsexeslife": "57.2"
+    },
+    {
+        "Country": "Namibia",
+        "Femalelife": "68.3",
+        "Malelife": "63.1",
+        "Bothsexeslife": "57.5"
+    },
+    {
+        "Country": "Yemen",
+        "Femalelife": "67.2",
+        "Malelife": "64.3",
+        "Bothsexeslife": "57.7"
+    },
+    {
+        "Country": "Laos",
+        "Femalelife": "67.2",
+        "Malelife": "64.1",
+        "Bothsexeslife": "57.9"
+    },
+    {
+        "Country": "Botswana",
+        "Femalelife": "68.1",
+        "Malelife": "63.3",
+        "Bothsexeslife": "56.9"
+    },
+    {
+        "Country": "Madagascar",
+        "Femalelife": "67",
+        "Malelife": "63.9",
+        "Bothsexeslife": "56.9"
+    },
+    {
+        "Country": "Ethiopia",
+        "Femalelife": "66.8",
+        "Malelife": "62.8",
+        "Bothsexeslife": "56.1"
+    },
+    {
+        "Country": "Congo",
+        "Femalelife": "66.3",
+        "Malelife": "63.2",
+        "Bothsexeslife": "56.6"
+    },
+    {
+        "Country": "Eritrea",
+        "Femalelife": "67",
+        "Malelife": "62.4",
+        "Bothsexeslife": "55.9"
+    },
+    {
+        "Country": "Syria",
+        "Femalelife": "69.9",
+        "Malelife": "59.9",
+        "Bothsexeslife": "56.1"
+    },
+    {
+        "Country": "Sudan",
+        "Femalelife": "65.9",
+        "Malelife": "62.4",
+        "Bothsexeslife": "55.9"
+    },
+    {
+        "Country": "Comoros",
+        "Femalelife": "65.2",
+        "Malelife": "61.9",
+        "Bothsexeslife": "55.9"
+    },
+    {
+        "Country": "Djibouti",
+        "Femalelife": "65.3",
+        "Malelife": "61.8",
+        "Bothsexeslife": "55.8"
+    },
+    {
+        "Country": "Haiti",
+        "Femalelife": "65.5",
+        "Malelife": "61.5",
+        "Bothsexeslife": "55.4"
+    },
+    {
+        "Country": "Kenya",
+        "Femalelife": "65.8",
+        "Malelife": "61.1",
+        "Bothsexeslife": "55.6"
+    },
+    {
+        "Country": "Mauritania",
+        "Femalelife": "64.6",
+        "Malelife": "61.6",
+        "Bothsexeslife": "55.1"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Femalelife": "65.4",
+        "Malelife": "60.6",
+        "Bothsexeslife": "56.4"
+    },
+    {
+        "Country": "South Africa",
+        "Femalelife": "66.2",
+        "Malelife": "59.3",
+        "Bothsexeslife": "54.5"
+    },
+    {
+        "Country": "Ghana",
+        "Femalelife": "63.9",
+        "Malelife": "61",
+        "Bothsexeslife": "55.3"
+    },
+    {
+        "Country": "Uganda",
+        "Femalelife": "64.3",
+        "Malelife": "60.3",
+        "Bothsexeslife": "54"
+    },
+    {
+        "Country": "Niger",
+        "Femalelife": "62.8",
+        "Malelife": "60.9",
+        "Bothsexeslife": "54.2"
+    },
+    {
+        "Country": "Tanzania",
+        "Femalelife": "63.8",
+        "Malelife": "59.9",
+        "Bothsexeslife": "54.1"
+    },
+    {
+        "Country": "Zambia",
+        "Femalelife": "64.7",
+        "Malelife": "59",
+        "Bothsexeslife": "53.6"
+    },
+    {
+        "Country": "Liberia",
+        "Femalelife": "62.9",
+        "Malelife": "59.8",
+        "Bothsexeslife": "52.7"
+    },
+    {
+        "Country": "Gambia",
+        "Femalelife": "62.5",
+        "Malelife": "59.8",
+        "Bothsexeslife": "53.8"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Femalelife": "62.3",
+        "Malelife": "59",
+        "Bothsexeslife": "52.3"
+    },
+    {
+        "Country": "Afghanistan",
+        "Femalelife": "61.9",
+        "Malelife": "59.3",
+        "Bothsexeslife": "52.2"
+    },
+    {
+        "Country": "Benin",
+        "Femalelife": "61.1",
+        "Malelife": "58.8",
+        "Bothsexeslife": "52.5"
+    },
+    {
+        "Country": "BurkinaFaso",
+        "Femalelife": "60.5",
+        "Malelife": "59.1",
+        "Bothsexeslife": "52.6"
+    },
+    {
+        "Country": "Togo",
+        "Femalelife": "61.1",
+        "Malelife": "58.6",
+        "Bothsexeslife": "52.8"
+    },
+    {
+        "Country": "DRCongo",
+        "Femalelife": "61.5",
+        "Malelife": "58.3",
+        "Bothsexeslife": "51.7"
+    },
+    {
+        "Country": "Burundi",
+        "Femalelife": "61.6",
+        "Malelife": "57.7",
+        "Bothsexeslife": "52.2"
+    },
+    {
+        "Country": "Guinea",
+        "Femalelife": "59.8",
+        "Malelife": "58.2",
+        "Bothsexeslife": "51.7"
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Femalelife": "60.5",
+        "Malelife": "57.2",
+        "Bothsexeslife": "51.5"
+    },
+    {
+        "Country": "Swaziland",
+        "Femalelife": "61.1",
+        "Malelife": "56.6",
+        "Bothsexeslife": "50.9"
+    },
+    {
+        "Country": "Malawi",
+        "Femalelife": "59.9",
+        "Malelife": "56.7",
+        "Bothsexeslife": "51.2"
+    },
+    {
+        "Country": "Mali",
+        "Femalelife": "58.3",
+        "Malelife": "58.2",
+        "Bothsexeslife": "51.1"
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Femalelife": "60",
+        "Malelife": "56.6",
+        "Bothsexeslife": "51.2"
+    },
+    {
+        "Country": "Mozambique",
+        "Femalelife": "59.4",
+        "Malelife": "55.7",
+        "Bothsexeslife": "49.6"
+    },
+    {
+        "Country": "South Sudan",
+        "Femalelife": "58.6",
+        "Malelife": "56.1",
+        "Bothsexeslife": "49.9"
+    },
+    {
+        "Country": "Cameroon",
+        "Femalelife": "58.6",
+        "Malelife": "55.9",
+        "Bothsexeslife": "50.3"
+    },
+    {
+        "Country": "Somalia",
+        "Femalelife": "56.6",
+        "Malelife": "53.5",
+        "Bothsexeslife": "47.8"
+    },
+    {
+        "Country": "Nigeria",
+        "Femalelife": "55.6",
+        "Malelife": "53.4",
+        "Bothsexeslife": "47.7"
+    },
+    {
+        "Country": "Lesotho",
+        "Femalelife": "55.4",
+        "Malelife": "51.7",
+        "Bothsexeslife": "46.6"
+    },
+    {
+        "Country": "Coted'Ivoire",
+        "Femalelife": "54.4",
+        "Malelife": "52.3",
+        "Bothsexeslife": "47"
+    },
+    {
+        "Country": "Chad",
+        "Femalelife": "54.5",
+        "Malelife": "51.7",
+        "Bothsexeslife": "46.1"
+    },
+    {
+        "Country": "Central African Republic",
+        "Femalelife": "54.1",
+        "Malelife": "50.9",
+        "Bothsexeslife": "45.9"
+    },
+    {
+        "Country": "Angola",
+        "Femalelife": "54",
+        "Malelife": "50.9",
+        "Bothsexeslife": "45.8"
+    },
+    {
+        "Country": "SierraLeone",
+        "Femalelife": "50.8",
+        "Malelife": "49.3",
+        "Bothsexeslife": "44.4"
+    },
+    {
+        "Country": "Country",
+        "Femalelife": "Femalelife",
+        "Malelife": "Malelife",
+        "Bothsexeslife": "Bothsexeslife"
+    },
+    {
+        "Country": "Japan",
+        "Femalelife": "86.8",
+        "Malelife": "80.5",
+        "Bothsexeslife": "74.9"
+    },
+    {
+        "Country": "Switzerland",
+        "Femalelife": "85.3",
+        "Malelife": "81.3",
+        "Bothsexeslife": "73.1"
+    },
+    {
+        "Country": "Singapore",
+        "Femalelife": "86.1",
+        "Malelife": "80",
+        "Bothsexeslife": "73.9"
+    },
+    {
+        "Country": "Australia",
+        "Femalelife": "84.8",
+        "Malelife": "80.9",
+        "Bothsexeslife": "71.9"
+    },
+    {
+        "Country": "Spain",
+        "Femalelife": "85.5",
+        "Malelife": "80.1",
+        "Bothsexeslife": "72.4"
+    },
+    {
+        "Country": "Iceland",
+        "Femalelife": "84.1",
+        "Malelife": "81.2",
+        "Bothsexeslife": "72.7"
+    },
+    {
+        "Country": "Italy",
+        "Femalelife": "84.8",
+        "Malelife": "80.5",
+        "Bothsexeslife": "72.8"
+    },
+    {
+        "Country": "Israel",
+        "Femalelife": "84.3",
+        "Malelife": "80.6",
+        "Bothsexeslife": "72.8"
+    },
+    {
+        "Country": "Sweden",
+        "Femalelife": "84",
+        "Malelife": "80.7",
+        "Bothsexeslife": "72"
+    },
+    {
+        "Country": "France",
+        "Femalelife": "85.4",
+        "Malelife": "79.4",
+        "Bothsexeslife": "72.6"
+    },
+    {
+        "Country": "SouthKorea",
+        "Femalelife": "85.5",
+        "Malelife": "78.8",
+        "Bothsexeslife": "73.2"
+    },
+    {
+        "Country": "Canada",
+        "Femalelife": "84.1",
+        "Malelife": "80.2",
+        "Bothsexeslife": "72.3"
+    },
+    {
+        "Country": "Luxembourg",
+        "Femalelife": "84",
+        "Malelife": "79.8",
+        "Bothsexeslife": "71.8"
+    },
+    {
+        "Country": "Netherlands",
+        "Femalelife": "83.6",
+        "Malelife": "80",
+        "Bothsexeslife": "72.2"
+    },
+    {
+        "Country": "Norway",
+        "Femalelife": "83.7",
+        "Malelife": "79.8",
+        "Bothsexeslife": "72"
+    },
+    {
+        "Country": "Malta",
+        "Femalelife": "83.7",
+        "Malelife": "79.7",
+        "Bothsexeslife": "71.7"
+    },
+    {
+        "Country": "New Zealand",
+        "Femalelife": "83.3",
+        "Malelife": "80",
+        "Bothsexeslife": "71.6"
+    },
+    {
+        "Country": "Austria",
+        "Femalelife": "83.9",
+        "Malelife": "79",
+        "Bothsexeslife": "72"
+    },
+    {
+        "Country": "Ireland",
+        "Femalelife": "83.4",
+        "Malelife": "79.4",
+        "Bothsexeslife": "71.5"
+    },
+    {
+        "Country": "United Kingdom",
+        "Femalelife": "83",
+        "Malelife": "79.4",
+        "Bothsexeslife": "71.4"
+    },
+    {
+        "Country": "Belgium",
+        "Femalelife": "83.5",
+        "Malelife": "78.6",
+        "Bothsexeslife": "71.1"
+    },
+    {
+        "Country": "Finland",
+        "Femalelife": "83.8",
+        "Malelife": "78.3",
+        "Bothsexeslife": "71"
+    },
+    {
+        "Country": "Portugal",
+        "Femalelife": "83.9",
+        "Malelife": "78.2",
+        "Bothsexeslife": "71.4"
+    },
+    {
+        "Country": "Germany",
+        "Femalelife": "83.4",
+        "Malelife": "78.7",
+        "Bothsexeslife": "71.3"
+    },
+    {
+        "Country": "Greece",
+        "Femalelife": "83.6",
+        "Malelife": "78.3",
+        "Bothsexeslife": "71.9"
+    },
+    {
+        "Country": "Slovenia",
+        "Femalelife": "83.7",
+        "Malelife": "77.9",
+        "Bothsexeslife": "71.1"
+    },
+    {
+        "Country": "Denmark",
+        "Femalelife": "82.5",
+        "Malelife": "78.6",
+        "Bothsexeslife": "71.2"
+    },
+    {
+        "Country": "Cyprus",
+        "Femalelife": "82.7",
+        "Malelife": "78.3",
+        "Bothsexeslife": "71.3"
+    },
+    {
+        "Country": "Chile",
+        "Femalelife": "83.4",
+        "Malelife": "77.4",
+        "Bothsexeslife": "70.4"
+    },
+    {
+        "Country": "CostaRica",
+        "Femalelife": "82.2",
+        "Malelife": "77.1",
+        "Bothsexeslife": "69.7"
+    },
+    {
+        "Country": "United States",
+        "Femalelife": "81.6",
+        "Malelife": "76.9",
+        "Bothsexeslife": "69.1"
+    },
+    {
+        "Country": "Cuba",
+        "Femalelife": "81.4",
+        "Malelife": "76.9",
+        "Bothsexeslife": "69.2"
+    },
+    {
+        "Country": "Czech Republic",
+        "Femalelife": "81.7",
+        "Malelife": "75.9",
+        "Bothsexeslife": "69.4"
+    },
+    {
+        "Country": "Maldives",
+        "Femalelife": "80.2",
+        "Malelife": "76.9",
+        "Bothsexeslife": "69.6"
+    },
+    {
+        "Country": "Qatar",
+        "Femalelife": "80",
+        "Malelife": "77.4",
+        "Bothsexeslife": "67.7"
+    },
+    {
+        "Country": "Croatia",
+        "Femalelife": "81.2",
+        "Malelife": "74.7",
+        "Bothsexeslife": "69.4"
+    },
+    {
+        "Country": "Albania",
+        "Femalelife": "80.7",
+        "Malelife": "75.1",
+        "Bothsexeslife": "68.8"
+    },
+    {
+        "Country": "Panama",
+        "Femalelife": "81.1",
+        "Malelife": "74.7",
+        "Bothsexeslife": "68.1"
+    },
+    {
+        "Country": "Brunei",
+        "Femalelife": "79.2",
+        "Malelife": "76.3",
+        "Bothsexeslife": "70.4"
+    },
+    {
+        "Country": "Estonia",
+        "Femalelife": "82",
+        "Malelife": "72.7",
+        "Bothsexeslife": "68.9"
+    },
+    {
+        "Country": "Poland",
+        "Femalelife": "81.3",
+        "Malelife": "73.6",
+        "Bothsexeslife": "68.7"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Femalelife": "79.7",
+        "Malelife": "75",
+        "Bothsexeslife": "68.6"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Femalelife": "78.6",
+        "Malelife": "76.4",
+        "Bothsexeslife": "67.9"
+    },
+    {
+        "Country": "Uruguay",
+        "Femalelife": "80.4",
+        "Malelife": "73.3",
+        "Bothsexeslife": "67.9"
+    },
+    {
+        "Country": "Bahrain",
+        "Femalelife": "77.9",
+        "Malelife": "76.2",
+        "Bothsexeslife": "67"
+    },
+    {
+        "Country": "Mexico",
+        "Femalelife": "79.5",
+        "Malelife": "73.9",
+        "Bothsexeslife": "67.4"
+    },
+    {
+        "Country": "Slovakia",
+        "Femalelife": "80.2",
+        "Malelife": "72.9",
+        "Bothsexeslife": "68.1"
+    },
+    {
+        "Country": "Oman",
+        "Femalelife": "79.2",
+        "Malelife": "75",
+        "Bothsexeslife": "66.7"
+    },
+    {
+        "Country": "Antiguaand Barbuda",
+        "Femalelife": "78.6",
+        "Malelife": "74.1",
+        "Bothsexeslife": "67.5"
+    },
+    {
+        "Country": "Argentina",
+        "Femalelife": "79.9",
+        "Malelife": "72.7",
+        "Bothsexeslife": "67.6"
+    },
+    {
+        "Country": "Jamaica",
+        "Femalelife": "78.6",
+        "Malelife": "73.9",
+        "Bothsexeslife": "66.9"
+    },
+    {
+        "Country": "Ecuador",
+        "Femalelife": "79",
+        "Malelife": "73.5",
+        "Bothsexeslife": "67"
+    },
+    {
+        "Country": "China",
+        "Femalelife": "77.6",
+        "Malelife": "74.6",
+        "Bothsexeslife": "68.5"
+    },
+    {
+        "Country": "Montenegro",
+        "Femalelife": "78.1",
+        "Malelife": "74.1",
+        "Bothsexeslife": "67.9"
+    },
+    {
+        "Country": "Bahamas",
+        "Femalelife": "79.1",
+        "Malelife": "72.9",
+        "Bothsexeslife": "66.6"
+    },
+    {
+        "Country": "Vietnam",
+        "Femalelife": "80.7",
+        "Malelife": "71.3",
+        "Bothsexeslife": "66.6"
+    },
+    {
+        "Country": "Hungary",
+        "Femalelife": "79.1",
+        "Malelife": "72.3",
+        "Bothsexeslife": "67.4"
+    },
+    {
+        "Country": "Turkey",
+        "Femalelife": "78.9",
+        "Malelife": "72.6",
+        "Bothsexeslife": "66.2"
+    },
+    {
+        "Country": "Macedonia",
+        "Femalelife": "77.8",
+        "Malelife": "73.5",
+        "Bothsexeslife": "67.5"
+    },
+    {
+        "Country": "Algeria",
+        "Femalelife": "77.5",
+        "Malelife": "73.8",
+        "Bothsexeslife": "66"
+    },
+    {
+        "Country": "Serbia",
+        "Femalelife": "78.4",
+        "Malelife": "72.9",
+        "Bothsexeslife": "67.7"
+    },
+    {
+        "Country": "Iran",
+        "Femalelife": "76.6",
+        "Malelife": "74.5",
+        "Bothsexeslife": "66.6"
+    },
+    {
+        "Country": "Peru",
+        "Femalelife": "78",
+        "Malelife": "73.1",
+        "Bothsexeslife": "65.6"
+    },
+    {
+        "Country": "Barbados",
+        "Femalelife": "77.9",
+        "Malelife": "73.1",
+        "Bothsexeslife": "66.6"
+    },
+    {
+        "Country": "Tunisia",
+        "Femalelife": "77.8",
+        "Malelife": "73",
+        "Bothsexeslife": "66.7"
+    },
+    {
+        "Country": "SaintLucia",
+        "Femalelife": "77.9",
+        "Malelife": "72.6",
+        "Bothsexeslife": "66.1"
+    },
+    {
+        "Country": "Malaysia",
+        "Femalelife": "77.3",
+        "Malelife": "72.7",
+        "Bothsexeslife": "66.5"
+    },
+    {
+        "Country": "Romania",
+        "Femalelife": "78.8",
+        "Malelife": "71.4",
+        "Bothsexeslife": "66.8"
+    },
+    {
+        "Country": "Brazil",
+        "Femalelife": "78.7",
+        "Malelife": "71.4",
+        "Bothsexeslife": "65.5"
+    },
+    {
+        "Country": "Lebanon",
+        "Femalelife": "76.5",
+        "Malelife": "73.5",
+        "Bothsexeslife": "65.7"
+    },
+    {
+        "Country": "Thailand",
+        "Femalelife": "78",
+        "Malelife": "71.9",
+        "Bothsexeslife": "66.8"
+    },
+    {
+        "Country": "SriLanka",
+        "Femalelife": "78.3",
+        "Malelife": "71.6",
+        "Bothsexeslife": "67"
+    },
+    {
+        "Country": "Armenia",
+        "Femalelife": "77.7",
+        "Malelife": "71.6",
+        "Bothsexeslife": "66.8"
+    },
+    {
+        "Country": "Nicaragua",
+        "Femalelife": "77.9",
+        "Malelife": "71.5",
+        "Bothsexeslife": "63.7"
+    },
+    {
+        "Country": "Colombia",
+        "Femalelife": "78.4",
+        "Malelife": "71.2",
+        "Bothsexeslife": "65.1"
+    },
+    {
+        "Country": "Kuwait",
+        "Femalelife": "76",
+        "Malelife": "73.7",
+        "Bothsexeslife": "65.8"
+    },
+    {
+        "Country": "Honduras",
+        "Femalelife": "77",
+        "Malelife": "72.3",
+        "Bothsexeslife": "64.9"
+    },
+    {
+        "Country": "Mauritius",
+        "Femalelife": "77.8",
+        "Malelife": "71.4",
+        "Bothsexeslife": "66.8"
+    },
+    {
+        "Country": "Latvia",
+        "Femalelife": "79.2",
+        "Malelife": "69.6",
+        "Bothsexeslife": "67.1"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Femalelife": "76",
+        "Malelife": "73.2",
+        "Bothsexeslife": "64.5"
+    },
+    {
+        "Country": "Bulgaria",
+        "Femalelife": "78",
+        "Malelife": "71.1",
+        "Bothsexeslife": "66.4"
+    },
+    {
+        "Country": "Georgia",
+        "Femalelife": "78.3",
+        "Malelife": "70.3",
+        "Bothsexeslife": "66.5"
+    },
+    {
+        "Country": "Morocco",
+        "Femalelife": "75.4",
+        "Malelife": "73.3",
+        "Bothsexeslife": "64.9"
+    },
+    {
+        "Country": "Jordan",
+        "Femalelife": "75.9",
+        "Malelife": "72.5",
+        "Bothsexeslife": "65"
+    },
+    {
+        "Country": "Venezuela",
+        "Femalelife": "78.5",
+        "Malelife": "70",
+        "Bothsexeslife": "65.2"
+    },
+    {
+        "Country": "Paraguay",
+        "Femalelife": "76",
+        "Malelife": "72.2",
+        "Bothsexeslife": "65.2"
+    },
+    {
+        "Country": "Samoa",
+        "Femalelife": "77.5",
+        "Malelife": "70.9",
+        "Bothsexeslife": "66.6"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Femalelife": "77.1",
+        "Malelife": "70.9",
+        "Bothsexeslife": "65.1"
+    },
+    {
+        "Country": "Grenada",
+        "Femalelife": "76.1",
+        "Malelife": "71.2",
+        "Bothsexeslife": "65"
+    },
+    {
+        "Country": "Lithuania",
+        "Femalelife": "79.1",
+        "Malelife": "68.1",
+        "Bothsexeslife": "66"
+    },
+    {
+        "Country": "Tonga",
+        "Femalelife": "76.4",
+        "Malelife": "70.6",
+        "Bothsexeslife": "66"
+    },
+    {
+        "Country": "ElSalvador",
+        "Femalelife": "77.9",
+        "Malelife": "68.8",
+        "Bothsexeslife": "64.1"
+    },
+    {
+        "Country": "CapeVerde",
+        "Femalelife": "75",
+        "Malelife": "71.3",
+        "Bothsexeslife": "64.4"
+    },
+    {
+        "Country": "Saint Vincentand the Grenadines",
+        "Femalelife": "75.2",
+        "Malelife": "71.3",
+        "Bothsexeslife": "64.6"
+    },
+    {
+        "Country": "Seychelles",
+        "Femalelife": "78",
+        "Malelife": "69.1",
+        "Bothsexeslife": "65.5"
+    },
+    {
+        "Country": "Libya",
+        "Femalelife": "75.6",
+        "Malelife": "70.1",
+        "Bothsexeslife": "63.8"
+    },
+    {
+        "Country": "Azerbaijan",
+        "Femalelife": "75.8",
+        "Malelife": "69.6",
+        "Bothsexeslife": "64.7"
+    },
+    {
+        "Country": "Belarus",
+        "Femalelife": "78",
+        "Malelife": "66.5",
+        "Bothsexeslife": "65.1"
+    },
+    {
+        "Country": "Moldova",
+        "Femalelife": "76.2",
+        "Malelife": "67.9",
+        "Bothsexeslife": "64.8"
+    },
+    {
+        "Country": "Vanuatu",
+        "Femalelife": "74",
+        "Malelife": "70.1",
+        "Bothsexeslife": "64.6"
+    },
+    {
+        "Country": "Guatemala",
+        "Femalelife": "75.2",
+        "Malelife": "68.5",
+        "Bothsexeslife": "62.1"
+    },
+    {
+        "Country": "Bangladesh",
+        "Femalelife": "73.1",
+        "Malelife": "70.6",
+        "Bothsexeslife": "62.3"
+    },
+    {
+        "Country": "Suriname",
+        "Femalelife": "74.7",
+        "Malelife": "68.6",
+        "Bothsexeslife": "63.1"
+    },
+    {
+        "Country": "Ukraine",
+        "Femalelife": "76.1",
+        "Malelife": "66.3",
+        "Bothsexeslife": "64.1"
+    },
+    {
+        "Country": "Trinidadand Tobago",
+        "Femalelife": "74.8",
+        "Malelife": "67.9",
+        "Bothsexeslife": "63.3"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Femalelife": "75.1",
+        "Malelife": "67.2",
+        "Bothsexeslife": "63.8"
+    },
+    {
+        "Country": "Egypt",
+        "Femalelife": "73.2",
+        "Malelife": "68.8",
+        "Bothsexeslife": "62.2"
+    },
+    {
+        "Country": "Bolivia",
+        "Femalelife": "73.3",
+        "Malelife": "68.2",
+        "Bothsexeslife": "62.2"
+    },
+    {
+        "Country": "DPRKorea",
+        "Femalelife": "74",
+        "Malelife": "67",
+        "Bothsexeslife": "64"
+    },
+    {
+        "Country": "Russian Federation",
+        "Femalelife": "76.3",
+        "Malelife": "64.7",
+        "Bothsexeslife": "63.3"
+    },
+    {
+        "Country": "Kazakhstan",
+        "Femalelife": "74.7",
+        "Malelife": "65.7",
+        "Bothsexeslife": "63.3"
+    },
+    {
+        "Country": "Belize",
+        "Femalelife": "73.1",
+        "Malelife": "67.5",
+        "Bothsexeslife": "62.3"
+    },
+    {
+        "Country": "Fiji",
+        "Femalelife": "73.1",
+        "Malelife": "67",
+        "Bothsexeslife": "62.9"
+    },
+    {
+        "Country": "Bhutan",
+        "Femalelife": "70.1",
+        "Malelife": "69.5",
+        "Bothsexeslife": "61.2"
+    },
+    {
+        "Country": "Tajikistan",
+        "Femalelife": "73.6",
+        "Malelife": "66.6",
+        "Bothsexeslife": "62.1"
+    },
+    {
+        "Country": "Micronesia",
+        "Femalelife": "70.6",
+        "Malelife": "68.1",
+        "Bothsexeslife": "62.5"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Femalelife": "72.7",
+        "Malelife": "66.1",
+        "Bothsexeslife": "62.4"
+    },
+    {
+        "Country": "SolomonIslands",
+        "Femalelife": "70.8",
+        "Malelife": "67.9",
+        "Bothsexeslife": "62.1"
+    },
+    {
+        "Country": "Nepal",
+        "Femalelife": "70.8",
+        "Malelife": "67.7",
+        "Bothsexeslife": "61.1"
+    },
+    {
+        "Country": "Indonesia",
+        "Femalelife": "71.2",
+        "Malelife": "67.1",
+        "Bothsexeslife": "62.2"
+    },
+    {
+        "Country": "Iraq",
+        "Femalelife": "71.8",
+        "Malelife": "66.2",
+        "Bothsexeslife": "60"
+    },
+    {
+        "Country": "Mongolia",
+        "Femalelife": "73.2",
+        "Malelife": "64.7",
+        "Bothsexeslife": "62"
+    },
+    {
+        "Country": "Cambodia",
+        "Femalelife": "70.7",
+        "Malelife": "66.6",
+        "Bothsexeslife": "58.9"
+    },
+    {
+        "Country": "Philippines",
+        "Femalelife": "72",
+        "Malelife": "65.3",
+        "Bothsexeslife": "61.1"
+    },
+    {
+        "Country": "India",
+        "Femalelife": "69.9",
+        "Malelife": "66.9",
+        "Bothsexeslife": "59.5"
+    },
+    {
+        "Country": "Timor-Leste",
+        "Femalelife": "70.1",
+        "Malelife": "66.6",
+        "Bothsexeslife": "60.7"
+    },
+    {
+        "Country": "Sao Tomeand Principe",
+        "Femalelife": "69.4",
+        "Malelife": "65.6",
+        "Bothsexeslife": "59.1"
+    },
+    {
+        "Country": "Senegal",
+        "Femalelife": "68.6",
+        "Malelife": "64.6",
+        "Bothsexeslife": "58.3"
+    },
+    {
+        "Country": "Myanmar",
+        "Femalelife": "68.5",
+        "Malelife": "64.6",
+        "Bothsexeslife": "59.2"
+    },
+    {
+        "Country": "Pakistan",
+        "Femalelife": "67.5",
+        "Malelife": "65.5",
+        "Bothsexeslife": "57.8"
+    },
+    {
+        "Country": "Kiribati",
+        "Femalelife": "68.8",
+        "Malelife": "63.7",
+        "Bothsexeslife": "59.1"
+    },
+    {
+        "Country": "Turkmenistan",
+        "Femalelife": "70.5",
+        "Malelife": "62.2",
+        "Bothsexeslife": "59.8"
+    },
+    {
+        "Country": "Guyana",
+        "Femalelife": "68.5",
+        "Malelife": "63.9",
+        "Bothsexeslife": "58.9"
+    },
+    {
+        "Country": "Rwanda",
+        "Femalelife": "71.1",
+        "Malelife": "60.9",
+        "Bothsexeslife": "56.6"
+    },
+    {
+        "Country": "Gabon",
+        "Femalelife": "67.2",
+        "Malelife": "64.7",
+        "Bothsexeslife": "57.2"
+    },
+    {
+        "Country": "Namibia",
+        "Femalelife": "68.3",
+        "Malelife": "63.1",
+        "Bothsexeslife": "57.5"
+    },
+    {
+        "Country": "Yemen",
+        "Femalelife": "67.2",
+        "Malelife": "64.3",
+        "Bothsexeslife": "57.7"
+    },
+    {
+        "Country": "Laos",
+        "Femalelife": "67.2",
+        "Malelife": "64.1",
+        "Bothsexeslife": "57.9"
+    },
+    {
+        "Country": "Botswana",
+        "Femalelife": "68.1",
+        "Malelife": "63.3",
+        "Bothsexeslife": "56.9"
+    },
+    {
+        "Country": "Madagascar",
+        "Femalelife": "67",
+        "Malelife": "63.9",
+        "Bothsexeslife": "56.9"
+    },
+    {
+        "Country": "Ethiopia",
+        "Femalelife": "66.8",
+        "Malelife": "62.8",
+        "Bothsexeslife": "56.1"
+    },
+    {
+        "Country": "Congo",
+        "Femalelife": "66.3",
+        "Malelife": "63.2",
+        "Bothsexeslife": "56.6"
+    },
+    {
+        "Country": "Eritrea",
+        "Femalelife": "67",
+        "Malelife": "62.4",
+        "Bothsexeslife": "55.9"
+    },
+    {
+        "Country": "Syria",
+        "Femalelife": "69.9",
+        "Malelife": "59.9",
+        "Bothsexeslife": "56.1"
+    },
+    {
+        "Country": "Sudan",
+        "Femalelife": "65.9",
+        "Malelife": "62.4",
+        "Bothsexeslife": "55.9"
+    },
+    {
+        "Country": "Comoros",
+        "Femalelife": "65.2",
+        "Malelife": "61.9",
+        "Bothsexeslife": "55.9"
+    },
+    {
+        "Country": "Djibouti",
+        "Femalelife": "65.3",
+        "Malelife": "61.8",
+        "Bothsexeslife": "55.8"
+    },
+    {
+        "Country": "Haiti",
+        "Femalelife": "65.5",
+        "Malelife": "61.5",
+        "Bothsexeslife": "55.4"
+    },
+    {
+        "Country": "Kenya",
+        "Femalelife": "65.8",
+        "Malelife": "61.1",
+        "Bothsexeslife": "55.6"
+    },
+    {
+        "Country": "Mauritania",
+        "Femalelife": "64.6",
+        "Malelife": "61.6",
+        "Bothsexeslife": "55.1"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Femalelife": "65.4",
+        "Malelife": "60.6",
+        "Bothsexeslife": "56.4"
+    },
+    {
+        "Country": "South Africa",
+        "Femalelife": "66.2",
+        "Malelife": "59.3",
+        "Bothsexeslife": "54.5"
+    },
+    {
+        "Country": "Ghana",
+        "Femalelife": "63.9",
+        "Malelife": "61",
+        "Bothsexeslife": "55.3"
+    },
+    {
+        "Country": "Uganda",
+        "Femalelife": "64.3",
+        "Malelife": "60.3",
+        "Bothsexeslife": "54"
+    },
+    {
+        "Country": "Niger",
+        "Femalelife": "62.8",
+        "Malelife": "60.9",
+        "Bothsexeslife": "54.2"
+    },
+    {
+        "Country": "Tanzania",
+        "Femalelife": "63.8",
+        "Malelife": "59.9",
+        "Bothsexeslife": "54.1"
+    },
+    {
+        "Country": "Zambia",
+        "Femalelife": "64.7",
+        "Malelife": "59",
+        "Bothsexeslife": "53.6"
+    },
+    {
+        "Country": "Liberia",
+        "Femalelife": "62.9",
+        "Malelife": "59.8",
+        "Bothsexeslife": "52.7"
+    },
+    {
+        "Country": "Gambia",
+        "Femalelife": "62.5",
+        "Malelife": "59.8",
+        "Bothsexeslife": "53.8"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Femalelife": "62.3",
+        "Malelife": "59",
+        "Bothsexeslife": "52.3"
+    },
+    {
+        "Country": "Afghanistan",
+        "Femalelife": "61.9",
+        "Malelife": "59.3",
+        "Bothsexeslife": "52.2"
+    },
+    {
+        "Country": "Benin",
+        "Femalelife": "61.1",
+        "Malelife": "58.8",
+        "Bothsexeslife": "52.5"
+    },
+    {
+        "Country": "BurkinaFaso",
+        "Femalelife": "60.5",
+        "Malelife": "59.1",
+        "Bothsexeslife": "52.6"
+    },
+    {
+        "Country": "Togo",
+        "Femalelife": "61.1",
+        "Malelife": "58.6",
+        "Bothsexeslife": "52.8"
+    },
+    {
+        "Country": "DRCongo",
+        "Femalelife": "61.5",
+        "Malelife": "58.3",
+        "Bothsexeslife": "51.7"
+    },
+    {
+        "Country": "Burundi",
+        "Femalelife": "61.6",
+        "Malelife": "57.7",
+        "Bothsexeslife": "52.2"
+    },
+    {
+        "Country": "Guinea",
+        "Femalelife": "59.8",
+        "Malelife": "58.2",
+        "Bothsexeslife": "51.7"
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Femalelife": "60.5",
+        "Malelife": "57.2",
+        "Bothsexeslife": "51.5"
+    },
+    {
+        "Country": "Swaziland",
+        "Femalelife": "61.1",
+        "Malelife": "56.6",
+        "Bothsexeslife": "50.9"
+    },
+    {
+        "Country": "Malawi",
+        "Femalelife": "59.9",
+        "Malelife": "56.7",
+        "Bothsexeslife": "51.2"
+    },
+    {
+        "Country": "Mali",
+        "Femalelife": "58.3",
+        "Malelife": "58.2",
+        "Bothsexeslife": "51.1"
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Femalelife": "60",
+        "Malelife": "56.6",
+        "Bothsexeslife": "51.2"
+    },
+    {
+        "Country": "Mozambique",
+        "Femalelife": "59.4",
+        "Malelife": "55.7",
+        "Bothsexeslife": "49.6"
+    },
+    {
+        "Country": "South Sudan",
+        "Femalelife": "58.6",
+        "Malelife": "56.1",
+        "Bothsexeslife": "49.9"
+    },
+    {
+        "Country": "Cameroon",
+        "Femalelife": "58.6",
+        "Malelife": "55.9",
+        "Bothsexeslife": "50.3"
+    },
+    {
+        "Country": "Somalia",
+        "Femalelife": "56.6",
+        "Malelife": "53.5",
+        "Bothsexeslife": "47.8"
+    },
+    {
+        "Country": "Nigeria",
+        "Femalelife": "55.6",
+        "Malelife": "53.4",
+        "Bothsexeslife": "47.7"
+    },
+    {
+        "Country": "Lesotho",
+        "Femalelife": "55.4",
+        "Malelife": "51.7",
+        "Bothsexeslife": "46.6"
+    },
+    {
+        "Country": "Coted'Ivoire",
+        "Femalelife": "54.4",
+        "Malelife": "52.3",
+        "Bothsexeslife": "47"
+    },
+    {
+        "Country": "Chad",
+        "Femalelife": "54.5",
+        "Malelife": "51.7",
+        "Bothsexeslife": "46.1"
+    },
+    {
+        "Country": "Central African Republic",
+        "Femalelife": "54.1",
+        "Malelife": "50.9",
+        "Bothsexeslife": "45.9"
+    },
+    {
+        "Country": "Angola",
+        "Femalelife": "54",
+        "Malelife": "50.9",
+        "Bothsexeslife": "45.8"
+    },
+    {
+        "Country": "SierraLeone",
+        "Femalelife": "50.8",
+        "Malelife": "49.3",
+        "Bothsexeslife": "44.4"
+    }
+]

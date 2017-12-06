@@ -1,0 +1,35 @@
+{
+  "name": "onsenui-v2-react-tabbar",
+  "version": "2.4.0+20170901.1",
+  "description": "",
+  "dependencies": {
+    "antd": "^2.13.11",
+    "country-data": "0.0.31",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "react": "15.5.3",
+    "react-dom": "15.5.3",
+    "react-fontawesome": "^1.6.1",
+    "webpack": "^3.9.1"
+  },
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.6.2",
+    "json-loader": "^0.5.7",
+    "onsenui": "^2.8.2",
+    "react-onsenui": "^1.9.0"
+  },
+  "babel": {
+    "plugins": [
+      [
+        "import",
+        {
+          "libraryName": "antd",
+          "style": "css"
+        }
+      ]
+    ]
+  }
+}
